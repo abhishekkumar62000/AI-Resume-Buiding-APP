@@ -1,0 +1,13 @@
+streamlit
+openai
+langchain
+pypdf
+reportlab
+python-docx
+beautifulsoup4
+requests
+pandas
+numpy
+matplotlib
+pdfkit
+wkhtmltopdf
